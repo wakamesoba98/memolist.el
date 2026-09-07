@@ -1,3 +1,4 @@
+;; -*- lexical-binding: t; -*-
 ;;; memolist.el --- memolist.el is Emacs port of memolist.vim.
 ;; Author: mikanfactory <k952i4j14x17_at_gmail.com>
 ;; Maintainer: mikanfactory
